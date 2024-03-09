@@ -1,16 +1,7 @@
-# random_quote
+# Random Quote Generator
+This Flutter application generates random quotes along with their authors. It allows users to add their favorite quotes to a favorites list and share them with others.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features:
+Generates random quotes on demand.
+Allows users to add quotes to their favorites list.
+Shares quotes with others through various platforms.
